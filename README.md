@@ -29,4 +29,4 @@
 
 ## Github Pages
 
-### [**Timekeeper**](https://ivanshpot.github.io/)
+### [**Timekeeper**](https://IvanShpot.github.io)
