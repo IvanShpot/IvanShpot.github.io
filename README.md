@@ -22,9 +22,24 @@
 Інструменти розробки: мови HTML5, CSS3, фреймворки Twitter Bootstrap або Material UI. (уроки від TutorialRepublic)
 
 ### [**Звіт**](https://docs.google.com/document/d/1X_4rErcX57OFTse4VcdoAn3TSj-ZNMmx6yeMv7z3jvQ/edit?usp=sharing)
+
+<hr>
+
+</details>
+<br>
+<details>
+
+  <summary><strong>Лабораторна робота №2</strong></summary>
+
+## **  Розробка функціональності Web-додатка **
+
+***Мета***: ознайомитись із засобами мови Javascript та навчитись їх застосовувати побудови Web-інтерфейсу користувача.
+
+***Загальне завдання***: розробити функціональність для статичних сторінок Web-додатку першої лабораторної роботи із використанням шаблону MVC
+
+### [**Звіт**](https://docs.google.com/document/d/1GlduqwRmrtstC9i_FPvue4QIppbLebuKYrJSdWsIHmc/edit?usp=sharing)
   
 </details>
-
 <hr>
 
 ## Github Pages
