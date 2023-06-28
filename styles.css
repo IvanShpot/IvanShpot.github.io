@@ -28,11 +28,21 @@ footer {
     height: 35rem;
 }
 
+
 #aboutBody {
+    margin-top: 40px;
     border-radius: 20px;
+    text-align: left;
+    background-color: rgba(220, 220, 220, 0.811);
 }
 
+
 #profileBody {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+    background-color: rgba(220, 220, 220, 0.811);
+    box-shadow: 5px;
     border-radius: 20px;
     margin: 100px 20px 20px 20px;
 
@@ -66,21 +76,22 @@ li.list-group-item {
     margin: 20px auto;
     padding: 0px;
     text-align: center;
+    background-color: rgba(220, 220, 220, 0.811);
+    
 }
 
 #buttons button {
-    background: white;
-    font-weight: bold;
-    padding: 5px;
-    width: 15vh;
+    width: 20vh;
     height: 5vh;
-    margin: 15px auto;
-    font-size: 14px;
+    margin: 5px auto;
+    padding: 0px;
+    background:none;
+    font-weight: bold;
+    font-size: 16px;
     border-radius: 50px;
   }
 
   #buttons button:hover {
-    background: rgb(40, 60, 71);
     color:aliceblue;
   }
   
@@ -88,12 +99,23 @@ li.list-group-item {
     color:green
   }
 
+  #start:hover {
+    background:green
+  }
+
   #pause {
     color:red;
+  }
+  #pause:hover {
+    background: red;
   }
 
   #reset {
     color:blue;
+  }
+
+  #reset:hover {
+    background:blue;
   }
 
 
