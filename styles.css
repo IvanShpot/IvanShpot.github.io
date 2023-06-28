@@ -1,0 +1,126 @@
+html {
+    height:100%
+}
+
+body{
+    
+    height:100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background: linear-gradient(180deg,rgba(36, 98, 255, 1),rgb(66, 114, 234),rgb(255, 251, 45), rgba(255, 242, 0, 1));
+
+    width: auto;
+}
+
+header {
+    background: rgba(3, 3, 183, 0.5);
+}
+
+
+
+footer {
+    background: rgba(130, 123, 0, 0.5);
+    color:rgb(169, 93, 0);
+}
+
+#loginBody {
+    height: 35rem;
+}
+
+
+#aboutBody {
+    margin-top: 40px;
+    border-radius: 20px;
+    text-align: left;
+    background-color: rgba(220, 220, 220, 0.811);
+}
+
+
+#profileBody {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+    background-color: rgba(220, 220, 220, 0.811);
+    box-shadow: 5px;
+    border-radius: 20px;
+    margin: 100px 20px 20px 20px;
+
+}
+
+
+#time {
+    width:100%;
+    margin-top:10px;
+    text-align: center;
+    background-color: rgba(36, 98, 255, 1);
+    color:rgba(255, 242, 0, 1);
+    font-size: 36px;
+    border: 2px;;
+}
+
+li.list-group-item {
+    border:none;
+    background:none;
+    font-size: 20px;
+}
+
+#indexBody {
+    margin-top: 10%;
+    margin-left:10%;
+    margin-right:10%;
+}
+
+#timer-container {
+    border-radius: 20px;
+    margin: 20px auto;
+    padding: 0px;
+    text-align: center;
+    background-color: rgba(220, 220, 220, 0.811);
+    
+}
+
+#logList {
+  list-style-type: none;
+}
+
+
+#buttons button {
+    width: 20vh;
+    height: 5vh;
+    margin: 5px auto;
+    padding: 0px;
+    background:none;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 50px;
+  }
+
+  #buttons button:hover {
+    color:aliceblue;
+  }
+  
+  #start {
+    color:green
+  }
+
+  #start:hover {
+    background:green
+  }
+
+  #pause {
+    color:red;
+  }
+  #pause:hover {
+    background: red;
+  }
+
+  #reset {
+    color:blue;
+  }
+
+  #reset:hover {
+    background:blue;
+  }
+
+
